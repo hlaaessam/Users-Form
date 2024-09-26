@@ -49,4 +49,14 @@ Before you begin, ensure that the following software is installed on your system
      json-server --watch db.json
      ```
 
+7. **Run the Project**
+
+   - After setting up everything, you can start the development server using:
+     ```bash
+     npm run dev
+     ```
+
+---
+
+This will start the project in development mode.
 
