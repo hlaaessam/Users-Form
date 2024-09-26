@@ -60,3 +60,18 @@ Before you begin, ensure that the following software is installed on your system
 
 This will start the project in development mode.
 
+
+---
+
+### Technologies
+- Html
+- CSS
+- JavaScript
+
+
+### Platform and Libraries
+- React
+- Tailwind
+
+<hr font-size=1>
+
