@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Hana",
+      "email": "hana@gmail.com",
+      "password": "123456"
+    },
+    {
+      "userName": "hala",
+      "email": "email@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "userName": "kariem",
+      "email": "i@gmail.com",
+      "password": "369874251",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "userName": "hla",
+      "email": "hala@gmail.com",
+      "password": "258963",
+      "role": "user",
+      "id": 4
+    }
+  ]
+}
