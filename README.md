@@ -69,6 +69,8 @@ This will start the project in development mode.
 ### Platform and Libraries
 - React
 - Tailwind
+- axios
+- json Server
 
 <hr font-size=1>
 
