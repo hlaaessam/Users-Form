@@ -37,7 +37,7 @@ This page allows registered users to log in to their accounts.
 - **Validation Feedback**: Provides visual feedback for form validation errors (e.g., highlighting invalid fields).4
   
 
-<hr>
+<hr><br>
 
 
 <h2>Project Setup Instructions</h2>
