@@ -1,4 +1,41 @@
-## [Users Form](https://hlaaessam.github.io/Users-Form/)
+## [User Form - Sign Up and Sign In](https://hlaaessam.github.io/Users-Form/)
+
+
+## Overview
+This project contains a simple user form with two pages: one for new users to sign up and another for existing users to sign in. The goal is to provide a clean and user-friendly interface for basic user authentication.
+
+## Pages
+
+### 1. Sign Up Page
+This page allows new users to create an account by filling out a registration form.
+
+#### Fields:
+- **Full Name**
+- **Email Address**
+- **Password**
+
+#### Features:
+- Validation for required fields (e.g., valid email format, password strength).
+- Password confirmation check (ensures the password matches the confirm password).
+- A "Sign Up" button to submit the form.
+- Link to the Sign In page (e.g., "Already have an account? Sign In").
+
+### 2. Sign In Page
+This page allows registered users to log in to their accounts.
+
+#### Fields:
+- **Email Address**
+- **Password**
+
+#### Features:
+- Validation for required fields.
+- A "Sign In" button to submit the form.
+- Link to the Sign Up page (e.g., "Don’t have an account? Sign Up").
+- Option to reset the password (e.g., "Forgot Password?").
+
+## Design Considerations
+- **Validation Feedback**: Provides visual feedback for form validation errors (e.g., highlighting invalid fields).
+
 
 <h3>Project Setup Instructions</h3>
 
