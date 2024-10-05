@@ -36,8 +36,9 @@ This page allows registered users to log in to their accounts.
 ## Design Considerations
 - **Validation Feedback**: Provides visual feedback for form validation errors (e.g., highlighting invalid fields).
 
+<hr>
 
-<h3>Project Setup Instructions</h3>
+<h2>Project Setup Instructions</h2>
 
 Follow these steps to get the project running on your local machine.
 
