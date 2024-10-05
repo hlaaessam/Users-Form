@@ -36,7 +36,7 @@ This page allows registered users to log in to their accounts.
 ## Design Considerations
 - **Validation Feedback**: Provides visual feedback for form validation errors (e.g., highlighting invalid fields).4
   
-
+<br>
 <hr><br>
 
 
