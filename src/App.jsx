@@ -6,7 +6,6 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
 import Login from "./pages/Login";
-import Notfound from "./pages/NotFound";
 import axios from "axios";
 import SignUp from "./pages/SignUp";
 
