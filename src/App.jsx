@@ -26,7 +26,7 @@ function App() {
           element={<Login state={state} setstate={setstate} />}
         />
         <Route path="/sign-up" element={<SignUp />} />
-        <Route path="/*" element={<Notfound />} />
+        
       </Routes>
     </div>
   );
